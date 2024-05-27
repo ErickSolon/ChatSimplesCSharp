@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D233952-FFE1-452D-B371-B7CC75322676}|Cliente\\Cliente.csproj|d:\\workspace\\csharp\\chat\\cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D233952-FFE1-452D-B371-B7CC75322676}|Cliente\\Cliente.csproj|solutionrelative:cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E01D59-5A10-4F54-BF05-E020A4BA8CF0}|Servidor\\Servidor.csproj|d:\\workspace\\csharp\\chat\\servidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E01D59-5A10-4F54-BF05-E020A4BA8CF0}|Servidor\\Servidor.csproj|solutionrelative:servidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Chat\\Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Chat\\Cliente\\Program.cs",
+              "RelativeToolTip": "Cliente\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:24:52.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Chat\\Servidor\\Program.cs",
+              "RelativeDocumentMoniker": "Servidor\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Chat\\Servidor\\Program.cs",
+              "RelativeToolTip": "Servidor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:24:50.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
